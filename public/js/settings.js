@@ -18,7 +18,7 @@ if (tabData.icon) {
 }
 
 var settingsDefaultTab = {
-  title: "Lunarsync",
+  title: "Jawner",
   icon: "/favicon.png",
 };
 
